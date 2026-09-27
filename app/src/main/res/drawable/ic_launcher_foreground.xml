@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- An atium coin stamped with the Dominance "X", kept inside the 66dp safe zone. -->
+    <path
+        android:fillColor="#FFC9A24A"
+        android:pathData="M24,54A30,30 0,1 1,84 54A30,30 0,1 1,24 54Z" />
+    <!-- Engraved inner rim. -->
+    <path
+        android:strokeColor="#FF8C6E2A"
+        android:strokeWidth="1.6"
+        android:pathData="M28.5,54A25.5,25.5 0,1 1,79.5 54A25.5,25.5 0,1 1,28.5 54Z" />
+    <!-- Roman X: a heavy and a light diagonal, with serifs. -->
+    <path
+        android:strokeColor="#FF15131A"
+        android:strokeWidth="6.5"
+        android:pathData="M45.69,43.5L62.31,64.5" />
+    <path
+        android:strokeColor="#FF15131A"
+        android:strokeWidth="2.6"
+        android:pathData="M62.87,42.8L45.13,65.2" />
+    <path
+        android:strokeColor="#FF15131A"
+        android:strokeWidth="2"
+        android:pathData="M39.5,42.5H49.5M58.5,42.5H68.5M39.5,65.5H49.5M58.5,65.5H68.5" />
+</vector>

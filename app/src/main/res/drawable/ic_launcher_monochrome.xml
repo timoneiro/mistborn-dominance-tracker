@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Themed-icon version (Android 13+): the coin's rim and the X as one tintable shape. -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M25.5,54A28.5,28.5 0,1 1,82.5 54A28.5,28.5 0,1 1,25.5 54Z" />
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="6.5"
+        android:pathData="M45.69,43.5L62.31,64.5" />
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2.6"
+        android:pathData="M62.87,42.8L45.13,65.2" />
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M39.5,42.5H49.5M58.5,42.5H68.5M39.5,65.5H49.5M58.5,65.5H68.5" />
+</vector>
